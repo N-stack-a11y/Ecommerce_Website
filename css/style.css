@@ -116,7 +116,7 @@ body{
 }
 /*home page*/
 #hero {
-    background-image: url(file:///C:/Users/Sutariya%20Infotech/Downloads/latest/images/hero4.png);
+    background-image: url(images/hero4.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
